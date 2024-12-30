@@ -18,8 +18,8 @@ For signatures, a double signature scheme is employed. A classical signature sch
 - Python 3.10 or higher
 
 Under Submodules folder, 
-- Guardian
-- QKD Server
+- Guardian https://github.com/s-fifteen-instruments/guardian.git
+- QKD Server https://github.com/s-fifteen-instruments/QKDServer.git
 
 ## Installation
 1. Clone this repository: git clone https://github.com/<>/pqchybrid.git
