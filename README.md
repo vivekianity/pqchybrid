@@ -19,8 +19,9 @@ For signatures, a double signature scheme is employed. A classical signature sch
 1. Clone this repository: git clone https://github.com//pqchybrid.git
 
 ## Set - Up 
-1. Identify the IP address and port that your device is running
-If you are running both the server and the client are running on the same device, you should use your loopback ip.
-If both the server and the cient are running on different device, you should use the ip address that is connected to the network.
-2. Navigate to the project directory
-3. To set the PQC communication channel, run main.py
+1. Identify the IP address and port that your device is running. 
+a. If you are running both the server and the client are running on the same device, you should use your loopback ip.
+b. If both the server and the cient are running on different device, you should use the ip address that is connected to the network.
+
+3. Navigate to the project directory
+4. To set the PQC communication channel, run main.py
