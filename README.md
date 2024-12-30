@@ -15,11 +15,13 @@ For key exchange, a hybrid scheme is employed. A classical key exchange protocol
 For signatures, a double signature scheme is employed. A classical signature scheme, such as EdDSA, and a post quantum signature scheme, such as ML-DSA, will be used in parallel. Both signatures are required to be validated for the authenticity and integrity of the message to be considered verified. In the case where the classical signature scheme is broken due to quantum attacks, the integrity and authenticity of the message is still preserved due to the usage of the post quantum signature scheme. Similarly, in the case where the post quantum signature scheme is broken due to flaws in the scheme, the integrity and authenticity of the message is still preserved through the usage of the classical signature scheme. Overall, the dual signature scheme provides resiliency against classical and quantum based threats.
 
 ## Requirements
-
 - Python 3.10 or higher
 
-## Installation
+Under Submodules folder, 
+- Guardian
+- QKD Server
 
+## Installation
 1. Clone this repository: git clone https://github.com/<>/pqchybrid.git
 
 ## Set-Up
