@@ -3,7 +3,7 @@ import socket
 import threading
 import X25519MLKE768M_Client
 import AES
-from Implementation import X25519MLKE768M_Server
+import X25519MLKE768M_Server
 
 
 def listen_for_messages(connection, secret, hmac_key):
