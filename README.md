@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements a Hybrid Encryption Method that combines classical cryptographic techniques with post-quantum cryptographic methods to provide secure data transmission in light of potential quantum computing threats.
-![Methodolody](pqchybrid/image.jpg)
+![Methodolody](image.jpg)
 
 ## Features
 The algorithms used are EdDSA with Ed25519, ML-DSA-6x5, ML-KEM-768 and ECDH with x25519. 
