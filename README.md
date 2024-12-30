@@ -17,7 +17,7 @@ For signatures, a double signature scheme is employed. A classical signature sch
 ## Requirements
 - Python 3.10 or higher
 
-Under Submodules folder, 
+Additonal modules:
 - Guardian https://github.com/s-fifteen-instruments/guardian.git
 - QKD Server https://github.com/s-fifteen-instruments/QKDServer.git
 
